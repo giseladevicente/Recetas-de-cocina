@@ -1,6 +1,6 @@
 Actividad 3 - Optativa III, Sistemas Multiplataformas - Universidad John F. Kennedy
 
-# recetas de cocina
+# Recetas de cocina
 
 ## Introducción al Proyecto
 
@@ -18,7 +18,7 @@ Este proyecto se centra en la creación de una aplicación web de recetas de coc
   
 - **Solución:**
   - Utilizamos la documentación oficial de Vue.js y Bootstrap junto con tutoriales en línea para comprender los conceptos básicos.
-  - Implementamos pequeños proyectos de prueba para familiarizarme con Vue.js y Vue Router.
+  - Implementamos pequeños proyectos de prueba para familiarizarnos con Vue.js y Vue Router.
   - Aprendimos a integrar Bootstrap para manejar la maquetación y estilos de manera eficiente.
 
 - **Resultado:**
